@@ -1,0 +1,11 @@
+setup
++ K e1
++ k e8
++ K f1
+- f1
++ p g2
+= black
+done
+game human human
+move g2 g1 q
+resign
